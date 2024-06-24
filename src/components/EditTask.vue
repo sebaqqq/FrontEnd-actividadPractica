@@ -43,6 +43,7 @@ export default {
       required: true,
     },
   },
+  // Inicializamos la tarea a editar con los datos de la tarea recibida
   data() {
     return {
       editedTask: { ...this.task },
