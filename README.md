@@ -10,5 +10,5 @@ Este es el repositorio del frontend de la aplicación TO-DO List. Aquí encontra
 
 ## Uso
 
-1. Ejecuta el comando `npm server` para iniciar la aplicación en modo de desarrollo.
+1. Ejecuta el comando `npm run server` para iniciar la aplicación en modo de desarrollo.
 2. Abre tu navegador y visita `http://localhost:8080` para ver la aplicación en acción.
